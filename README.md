@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adnan Musa
 ==================================================================================================================================
 
-I an a Frontend developer 💻
+I am a Frontend developer 💻
 ----------------------------
 
 I am working as a frontend developer from last 6 months with hands on exercise on HTML 5,CSS 3,bootstrap 5 and JavaScript.
